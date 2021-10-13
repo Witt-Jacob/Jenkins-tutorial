@@ -53,7 +53,7 @@ class Calculator {
      */
     String intToBinaryNumber(int n){
 
-      return null;
+      return Integer.toBinaryString(n);
     }
 
     /*
